@@ -1,4 +1,4 @@
-package com.example.model
+package com.example.lunchtray.model
 
 data class OrderUiState(
     // Entree Selection

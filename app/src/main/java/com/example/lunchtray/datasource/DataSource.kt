@@ -1,8 +1,8 @@
-package com.example.datasource
+package com.example.lunchtray.datasource
 
-import com.example.model.MenuItem.EntreeItem
-import com.example.model.MenuItem.SideDishItem
-import com.example.model.MenuItem.AccompanimentItem
+import com.example.lunchtray.model.MenuItem.EntreeItem
+import com.example.lunchtray.model.MenuItem.SideDishItem
+import com.example.lunchtray.model.MenuItem.AccompanimentItem
 
 object DataSource {
     val entreeMenuItems = listOf(
