@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Lunch Tray"
-include ':app'
+include(":app")
